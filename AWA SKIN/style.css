@@ -1,0 +1,19 @@
+.controller.xbox {
+  background: url(base-white-awa.png);
+  height: 630px;
+  width: 750px;
+  /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
+
+.xbox.white {
+  background: url(base-white-awa.png);
+}
+
+.xbox.disconnected {
+  background: url(xbox-assets/disconnected.svg);
+}
+
+.xbox.disconnected div {
+  display: none;
+}
