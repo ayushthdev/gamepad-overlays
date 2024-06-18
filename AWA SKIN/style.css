@@ -9,11 +9,3 @@
 .xbox.white {
   background: url(base-white-awa.png);
 }
-
-.xbox.disconnected {
-  background: url(xbox-assets/disconnected.svg);
-}
-
-.xbox.disconnected div {
-  display: none;
-}
