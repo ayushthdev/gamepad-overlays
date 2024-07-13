@@ -1,0 +1,38 @@
+.xbox.white {
+  background: url(xbox-assets/xbox.gif);
+}
+
+.xbox .trigger {
+  width: 88px;
+  height: 121px;
+  background: url(xbox-assets/trigger.png);
+  opacity: 0;
+}
+
+.xbox .bumper {
+  width: 170px;
+  height: 61px;
+  background: url(xbox-assets/bumper.png);
+  opacity: 0;
+}
+
+.xbox .button {
+  position: absolute;
+  background: url(xbox-assets/abxy.png);
+  width: 48px;
+  height: 48px;
+}
+
+.xbox .stick {
+  position: absolute;
+  background: url(xbox-assets/stick.png);
+  background-position: -85px 0;
+  height: 83px;
+  width: 83px;
+}
+
+.xbox .face {
+  background: url(xbox-assets/dpad.png);
+  position: absolute;
+  opacity: 0;
+}
